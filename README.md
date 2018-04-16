@@ -14,12 +14,6 @@ Open up `test.rb` in your text editor to read the specs.  (But do not edit them.
 
 At first everything will fail.  Open up `methods.rb` and make em pass!  **Commit** after you get each spec to pass.
 
-
----
-
-![ruby](fun.png)
-
-
 ## Bonus
 
 Want more practice?
