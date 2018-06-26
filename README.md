@@ -1,6 +1,6 @@
 # Ruby Lab
 
-This lab follows the [Ruby 101 lecture](https://git.generalassemb.ly/wdi-nyc-thundercats/LECTURE_U04_D01_Ruby_101)
+This lab follows the [Ruby 101 lecture](https://git.generalassemb.ly/wdi-nyc-tesseract/LECTURE_U04_D01_Ruby_101)
 
 ### Setup
 
