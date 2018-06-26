@@ -1,7 +1,5 @@
 # Ruby Lab
 
-[Solution](https://git.generalassemb.ly/wdi-nyc-ewok/LAB_U04_D01_Ruby_101/tree/erics-solution)
-
 This lab follows the [Ruby 101 lecture](https://git.generalassemb.ly/wdi-nyc-thundercats/LECTURE_U04_D01_Ruby_101)
 
 ### Setup
