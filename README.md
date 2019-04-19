@@ -1,8 +1,13 @@
-# Ruby Lab
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  WEB DEVELOPMENT IMMERSIVE
 
-[Solution](https://git.generalassemb.ly/wdi-nyc-ewok/LAB_U04_D01_Ruby_101/tree/erics-solution)
+## Getting started
 
-This lab follows the [Ruby 101 lecture](https://git.generalassemb.ly/wdi-nyc-thundercats/LECTURE_U04_D01_Ruby_101)
+1. Fork
+1. Create a feature branch
+1. Clone
+1. Pull Request
+
+# Ruby Practice
 
 ### Setup
 
